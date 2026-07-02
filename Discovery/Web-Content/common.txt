@@ -300,6 +300,8 @@ Office
 P
 PDF
 PHP
+Pipfile
+Pipfile.lock
 PMA
 Pages
 People
@@ -1365,6 +1367,7 @@ d
 da
 daemon
 daily
+daloradius
 dan
 dana-na
 dark
@@ -2069,6 +2072,8 @@ header_logo
 headers
 headlines
 health
+health/live
+health/ready
 healthz
 healthcare
 hello
@@ -2852,6 +2857,7 @@ no
 no-index
 nobody
 node
+node_modules/.package-lock.json
 noindex
 nokia
 none
@@ -2865,6 +2871,7 @@ notified
 notifier
 notify
 novell
+npm-shrinkwrap.json
 nr
 ns
 nsf
@@ -2992,6 +2999,7 @@ pa
 pack
 package
 package.json
+package-lock.json
 packaged
 packages
 packaging
@@ -3439,6 +3447,7 @@ rcs
 rct
 rd
 rdf
+rdweb
 read
 reader
 readfile
@@ -3527,6 +3536,7 @@ reports
 reports list
 repository
 repost
+reportserver
 reprints
 reputation
 req
@@ -3973,6 +3983,7 @@ statistik
 stats
 statshistory
 status
+status/ready
 statusicon
 stock
 stoneedge
@@ -4432,6 +4443,8 @@ visit
 visitor
 visitormessage
 vista
+vite.config.js
+vite.config.ts
 vm
 vmailadmin
 void
@@ -4732,3 +4745,7 @@ zt
 ~www
 dns-query?dns=q80BAAABAAAAAAAAA3d3dwdleGFtcGxlA2NvbQAAAQAB
 dns-query?name=google.com&type=A
+sse
+mcp
+mcp/transport
+mcp/message
